@@ -64,6 +64,7 @@ dtb-$(CONFIG_ARCH_MESON) += meson-gxl-s905x-p212.dtb
 dtb-$(CONFIG_ARCH_MESON) += meson-gxl-s905x-tbee.dtb
 dtb-$(CONFIG_ARCH_MESON) += meson-gxl-s905x-vero4k.dtb
 dtb-$(CONFIG_ARCH_MESON) += meson-gxl-s905x-b860h.dtb
+dtb-$(CONFIG_ARCH_MESON) += meson-gxl-s905x-cumebox2.dtb
 dtb-$(CONFIG_ARCH_MESON) += meson-gxl-s905d-mecool-ki-plus.dtb
 dtb-$(CONFIG_ARCH_MESON) += meson-gxl-s905d-mecool-ki-pro.dtb
 dtb-$(CONFIG_ARCH_MESON) += meson-gxl-s905d-mecool-kii-pro.dtb
